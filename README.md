@@ -1,4 +1,4 @@
 # student-demo-repo
 This is my repository
 <br>
-Author-Harsh N.Patil
+Author-Harshawardhan N.Patil (Data Analyst)
